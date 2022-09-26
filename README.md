@@ -1,0 +1,1 @@
+This bar chart shows the 100 most populated countries in 2022 sorted from highest to lowest (top to bottom). The source comes from [worldpopulationreview.com](https://worldpopulationreview.com/countries)

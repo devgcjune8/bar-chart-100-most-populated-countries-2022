@@ -1,0 +1,26 @@
+body { 
+	background-color: rgb(37, 150, 190);
+  display: flex;
+  flex-direction: column;
+  font-family: system-ui;
+  overflow-x: hidden;
+}
+h1 {
+  color: white;
+  transform: translate(120px, 20px)
+}
+rect {
+  fill: #145369; 
+}
+
+rect:hover {
+  fill: #041014;
+}
+
+text {
+  font-size: 1.6em
+
+.tip {
+	font-size: 1em;
+  z-index:99
+}
